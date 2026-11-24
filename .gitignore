@@ -1,0 +1,21 @@
+# Build directories
+build*/
+build_*
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+
+# Temporary and test artifacts
+*.part
+__pycache__/
+*.pyc
+
+# IDE / Editor files
+.vscode/
+.vs/
+*.swp
+*.user

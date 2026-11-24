@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc/cmake_install.cmake",
-		"D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc/tests/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

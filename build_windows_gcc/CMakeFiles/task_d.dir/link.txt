@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\task_d.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\task_d.dir/objects.a @CMakeFiles\task_d.dir\objects1.rsp
-C:\msys64\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\task_d.dir/objects.a -Wl,--no-whole-archive -o task_d.exe -Wl,--out-implib,libtask_d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\task_d.dir\linkLibs.rsp
