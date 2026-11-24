@@ -1,0 +1,140 @@
+[
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\utils.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\utils.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/utils.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/utils.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\ossl_raii.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\ossl_raii.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/ossl_raii.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/ossl_raii.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\bn_math.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\bn_math.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/bn_math.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/bn_math.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\rsa_params.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\rsa_params.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/rsa_params.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/rsa_params.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\key_io.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\key_io.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/key_io.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/key_io.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\rsa_encoding.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\rsa_encoding.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/rsa_encoding.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/rsa_encoding.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\aead.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\aead.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/aead.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/aead.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\package.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\package.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/package.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/package.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\hybrid_oaep.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\hybrid_oaep.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/hybrid_oaep.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/hybrid_oaep.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\rsa_kem.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\rsa_kem.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/rsa_kem.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/rsa_kem.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\rsa_oaep.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\rsa_oaep.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/rsa_oaep.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/rsa_oaep.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\key_manager.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\key_manager.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/key_manager.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/key_manager.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\hybrid_engine.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\hybrid_engine.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/hybrid_engine.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/hybrid_engine.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\kat_runner.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\kat_runner.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/kat_runner.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/kat_runner.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsa_hybrid_core.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsa_hybrid_core.dir\\src\\bench.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\bench.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/bench.cpp",
+  "output": "CMakeFiles/rsa_hybrid_core.dir/src/bench.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rsatool.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\rsatool.dir\\src\\main.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\main.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/main.cpp",
+  "output": "CMakeFiles/rsatool.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/lab02.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab02.dir\\src\\main.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\src\\main.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/src/main.cpp",
+  "output": "CMakeFiles/lab02.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/task_a.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\task_a.dir\\task_a_bignum.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\task_a_bignum.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/task_a_bignum.cpp",
+  "output": "CMakeFiles/task_a.dir/task_a_bignum.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/task_b.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\task_b.dir\\task_b_rsa_keys.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\task_b_rsa_keys.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/task_b_rsa_keys.cpp",
+  "output": "CMakeFiles/task_b.dir/task_b_rsa_keys.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/task_c.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\task_c.dir\\task_c_oaep.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\task_c_oaep.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/task_c_oaep.cpp",
+  "output": "CMakeFiles/task_c.dir/task_c_oaep.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/task_d.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\task_d.dir\\task_d_hybrid.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\task_d_hybrid.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/task_d_hybrid.cpp",
+  "output": "CMakeFiles/task_d.dir/task_d_hybrid.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/task_e.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\task_e.dir\\task_e_kem.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\task_e_kem.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/task_e_kem.cpp",
+  "output": "CMakeFiles/task_e.dir/task_e_kem.cpp.obj"
+},
+{
+  "directory": "D:/UIT/NT219/Task-on-class/Lab-3-final/build_windows_gcc/tests",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/test_runner.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\test_runner.dir\\test_runner.cpp.obj -c D:\\UIT\\NT219\\Task-on-class\\Lab-3-final\\tests\\test_runner.cpp",
+  "file": "D:/UIT/NT219/Task-on-class/Lab-3-final/tests/test_runner.cpp",
+  "output": "tests/CMakeFiles/test_runner.dir/test_runner.cpp.obj"
+}
+]

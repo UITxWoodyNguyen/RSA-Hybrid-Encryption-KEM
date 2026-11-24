@@ -1,0 +1,4 @@
+Hello NT219 Cryptography Lab 3!
+This is a sample plaintext file for testing RSA-OAEP and RSASVE KEM hybrid encryption.
+Key Size: RSA-3072, Symmetric Cipher: AES-256-GCM.
+Integrity & Confidentiality guaranteed!
